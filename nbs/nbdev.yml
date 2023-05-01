@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-metaflow-blog"
+  site-url: "https://Hrsh-12.github.io/nbdev-metaflow-blog"
+  description: "Scaling without Bounds"
+  repo-branch: main
+  repo-url: "https://github.com/Hrsh-12/nbdev-metaflow-blog"
